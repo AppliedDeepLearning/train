@@ -1,0 +1,1 @@
+- Training mode configuration is taken from [tflearn](https://github.com/tflearn/tflearn/blob/master/tflearn/config.py)
