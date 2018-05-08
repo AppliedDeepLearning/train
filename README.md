@@ -14,6 +14,14 @@ Training utilities for TensorFlow.
 
 ## Installation
 
+[Install TensorFlow]:
+
+```sh
+pip install tensorflow
+```
+
+and run:
+
 ```sh
 pip install train
 ```
@@ -138,3 +146,4 @@ training(False, session=session)
 
 [license]: /LICENSE
 [virtual environment]: https://docs.python.org/3/library/venv.html
+[Install TensorFlow]: https://www.tensorflow.org/install/
